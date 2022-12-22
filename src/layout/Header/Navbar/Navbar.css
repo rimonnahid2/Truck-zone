@@ -1,0 +1,8 @@
+.navbar {
+  min-height: 0;
+}
+
+.navbar li a.active {
+  background-color: #fff;
+  color: #073763;
+}
